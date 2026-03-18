@@ -1,4 +1,4 @@
-# Hugo Gallery Theme
+# Fly Gallery Theme
 
 A very simple and opinionated photo gallery theme for Hugo.
 
